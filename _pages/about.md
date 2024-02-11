@@ -2,8 +2,9 @@
 layout: about
 title: about
 permalink: /
-[comment]: <> (subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-)
+<!---
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+-->
 
 profile:
   align: right
